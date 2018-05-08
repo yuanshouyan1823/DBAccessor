@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfDBInstance xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DBInstance>
+    <DatabaseType>SQLSERVER</DatabaseType>
+    <ConnectionString>Persist Security Info=False;User ID=OdysseyAdmin;Initial Catalog=TestDB;Data Source=LOCALHOST;password=tlu$i*ci$brla2ie</ConnectionString>
+    <DBSoureName>HR</DBSoureName>
+  </DBInstance>
+    <DBInstance>
+    <DatabaseType>SQLITE</DatabaseType>
+    <ConnectionString>Data Source=LocalDB.sqlite;</ConnectionString>
+    <DBSoureName>LocalDB</DBSoureName>
+  </DBInstance>
+</ArrayOfDBInstance>

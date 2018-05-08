@@ -1,0 +1,6 @@
+C:\Users\Oliver\source\repos\DBAccessor\DBAccessor\obj\Debug\DBAccessor.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\DBAccessor\DBAccessor\bin\Debug\DBAccessor.dll
+C:\Users\Oliver\source\repos\DBAccessor\DBAccessor\bin\Debug\DBAccessor.pdb
+C:\Users\Oliver\source\repos\DBAccessor\DBAccessor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Oliver\source\repos\DBAccessor\DBAccessor\obj\Debug\DBAccessor.dll
+C:\Users\Oliver\source\repos\DBAccessor\DBAccessor\obj\Debug\DBAccessor.pdb
